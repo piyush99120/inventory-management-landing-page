@@ -3,7 +3,7 @@ import HeroSection from "../components/HeroSection";
 import FeaturesSection from "../components/FeaturesSection";
 import BenefitsSection from "../components/BenefitsSection";
 import ModulesSection from "../components/ModulesSection";
-import CallToAction from "../components/CallToAction";
+// import CallToAction from "../components/CallToAction";
 import SEOHead from "../components/SEOHead";
 
 const Index = () => {
@@ -16,7 +16,7 @@ const Index = () => {
         <FeaturesSection />
         <BenefitsSection />
         <ModulesSection />
-        <CallToAction />
+{/*         <CallToAction /> */}
       </main>
     </div>
   );
